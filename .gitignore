@@ -1,0 +1,9 @@
+# Large files
+*.pcap
+*.npz
+*.pkl
+
+# Data folders
+data/
+PCAP_Traffic/data/
+npz_Traffic/data/
